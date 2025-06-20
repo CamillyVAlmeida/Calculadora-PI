@@ -1,0 +1,18 @@
+# Compilação
+/target/
+/bin/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/ 
