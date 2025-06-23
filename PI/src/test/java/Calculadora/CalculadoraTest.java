@@ -10,7 +10,7 @@ public class CalculadoraTest {
 
     @Test
     void testSomar() {
-        assertEquals(10.0, calc.somar(6, 4), 0.0001);
+        assertEquals(10.0, calc.somar(6, 4 ), 0.0001);
     }
 
     @Test
